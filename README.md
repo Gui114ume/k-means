@@ -4,4 +4,6 @@ then type :
   - cd build
   - cmake ..
   - make
+  
+  
 you can run the program :)
